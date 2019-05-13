@@ -3,8 +3,7 @@ RoboFriends is a cool interactive app that shows reactjs functionalities such as
 
 
 To run this app
-<ol>
-<li> Clone this repo </li>
-<li> Run npm install</li>
-<li> Run npm start </li>
-</ol>
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm star
